@@ -1,0 +1,1 @@
+<h1>Hello Spring Boot with docker-compose!</h1>
